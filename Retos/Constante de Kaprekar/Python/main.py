@@ -82,9 +82,6 @@ def operation(x):
     return nsorted - ninverted
 # ---------------------------------------------------------------
 
-#n = "0004"
-#times = 1
-
 '''
 Llamada a las funciones correspondientes para la comprobaciónd 
 de cada número en 'items'
